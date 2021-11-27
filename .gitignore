@@ -64,7 +64,8 @@ FallHack/[Bb]uild/
 FallHack/[Bb]uilds/
 FallHack/[Ll]ogs/
 FallHack/[Mm]emoryCaptures/
-
+FallHack/Packages/packages-lock.json
+FallHack/ProjectSettings/ProjectVersion.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
