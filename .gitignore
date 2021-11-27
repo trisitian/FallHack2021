@@ -55,6 +55,16 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+#For Hackathon
+
+FallHack/[Ll]ibrary/
+FallHack/[Tt]emp/
+FallHack/[Oo]bj/
+FallHack/[Bb]uild/
+FallHack/[Bb]uilds/
+FallHack/[Ll]ogs/
+FallHack/[Mm]emoryCaptures/
+
 # Crashlytics generated file
 crashlytics-build.properties
 
